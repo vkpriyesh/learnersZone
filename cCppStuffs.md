@@ -2,7 +2,7 @@
 ##_**LEARNING C AND CPP**_
 ###START WITH:
 
-	1. [THENEWBOSTON C](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) (5.8hrs):
+	* [THENEWBOSTON C](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) (5.8hrs):
 
 	2. THENEWBOSTON CPP (7.3hrs):
 		* https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83

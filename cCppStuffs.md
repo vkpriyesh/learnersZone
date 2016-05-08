@@ -26,8 +26,8 @@
 ####GLOBAL PERSPECTIVE (HIGHLY RECOMMENDED if you want to get real insights of CS domain):
 
 * Free downloadable/printable books:
-	* [C](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c]
-	* [C++](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1]
+	* [C](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c)
+	* [C++](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1)
 
 * Must buy books (DO NOT PURCHASE ONLINE):
 	* [C](http://www.amazon.in/Programming-Language-Ansi-Version/dp/8120305965/)

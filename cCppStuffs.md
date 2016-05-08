@@ -1,6 +1,6 @@
 #LEARN PROGRAMMING 
 ##_**LEARNING C AND CPP**_
-START WITH:
+###START WITH:
 
 	1. THENEWBOSTON C (5.8hrs):
 		* https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq
@@ -11,7 +11,6 @@ START WITH:
 	3. DEREK BANAS CPP (1.5hrs):
 		* https://www.youtube.com/watch?v=Rub-JsjMhWY
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 After finishing 1, 2 & 3, you can directly jump to 6, and continue from there. But if you have got a lot of free time, then must go through 4 & 5:
 
 	4. LEARNING LAD C (18.6hrs):
@@ -20,8 +19,6 @@ After finishing 1, 2 & 3, you can directly jump to 6, and continue from there. B
 
 	5. LEARNING LAD CPP (16.6hrs):
 		* https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 These are open coursewares which involves certifications and university led coursewares:
 
@@ -34,13 +31,10 @@ These are open coursewares which involves certifications and university led cour
 	8. OCW C/CPP:
 		* http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 HIGHLY RECOMMENDED COURSEWARE (would take a year or less to complete but if you accomplish this, you have got ample of opportunities waiting ahead):
 	9. CS50 HARVARD:
 		* https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###BOOKS/READINGS:
 
 ####INDIAN PERSPECTIVE (as most of the Indian university teachers recommend them/JUST FOR THE SAKE OF INTERVIEW AND EXAM CLEARANCE NOTIONS || RECOMMENDED if you don't want to choose CS as your definite career):

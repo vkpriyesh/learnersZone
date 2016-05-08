@@ -8,12 +8,9 @@
 	* After finishing 1, 2 & 3, you can directly jump to 6, and continue from there. But if you have got a lot of free time, then must go through 4 & 5:
 4. [LEARNING LAD C](https://www.youtube.com/playlist?list=PLfVsf4Bjg79CZ5kHTiQHcm-l2q8j06ofd) (18.6hrs)
 5. [LEARNING LAD CPP](https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C) (16.6hrs)
-
-####These are open coursewares which involves certifications and university led coursewares:
-
+	* *These are open coursewares which involves certifications and university led coursewares:*
 6. [MICROSOFT C](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
 7. [IITB C/CPP](https://www.edx.org/course/programming-basics-iitbombayx-cs101-1x)
-
 8. [OCW C/CPP](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/)
 
 ####HIGHLY RECOMMENDED COURSEWARE (would take a year or less to complete but if you accomplish this, you have got ample of opportunities waiting ahead):

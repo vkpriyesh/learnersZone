@@ -2,13 +2,9 @@
 ##_**LEARNING C AND CPP**_
 ###START WITH:
 
-* [THENEWBOSTON C](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) (5.8hrs):
-
-	2. THENEWBOSTON CPP (7.3hrs):
-		* https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83
-
-	3. DEREK BANAS CPP (1.5hrs):
-		* https://www.youtube.com/watch?v=Rub-JsjMhWY
+1. [THENEWBOSTON C](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) (5.8hrs):
+2. [THENEWBOSTON CPP](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) (7.3hrs):
+3. [DEREK BANAS CPP](https://www.youtube.com/watch?v=Rub-JsjMhWY) (1.5hrs):
 
 After finishing 1, 2 & 3, you can directly jump to 6, and continue from there. But if you have got a lot of free time, then must go through 4 & 5:
 

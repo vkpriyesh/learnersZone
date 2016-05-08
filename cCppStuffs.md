@@ -5,7 +5,7 @@
 1. [THE NEWBOSTON C](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) (5.8hrs)
 2. [THE NEW BOSTON CPP](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) (7.3hrs)
 3. [DEREK BANAS CPP](https://www.youtube.com/watch?v=Rub-JsjMhWY) (1.5hrs)
-After finishing 1, 2 & 3, you can directly jump to 6, and continue from there. But if you have got a lot of free time, then must go through 4 & 5:
+	* After finishing 1, 2 & 3, you can directly jump to 6, and continue from there. But if you have got a lot of free time, then must go through 4 & 5:
 4. [LEARNING LAD C](https://www.youtube.com/playlist?list=PLfVsf4Bjg79CZ5kHTiQHcm-l2q8j06ofd) (18.6hrs)
 5. [LEARNING LAD CPP](https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C) (16.6hrs)
 
